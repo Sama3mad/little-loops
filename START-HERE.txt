@@ -1,10 +1,10 @@
-LITTLE LOOPS — VERSION 2
+LITTLE LOOPS — VERSION 3
 
 1. Unzip the download.
 2. Open index.html in a browser. Keep all files and folders together.
 3. Click Creations, then select any project. Each opens its own HTML page.
 4. To publish, upload the CONTENTS of this folder (index.html, creations.html, about.html, styles.css, images and projects) to your GitHub repository root. Enable GitHub Pages from main / (root).
 
-Project names and descriptions are provisional. Materials, difficulty and YouTube links were not supplied, so they are marked as pending. Before publishing, confirm you own or have permission to use all photos. The frog bunny image has its original visible watermark; no photo has been modified.
+Project names and descriptions are provisional. Materials, difficulty and YouTube links were not supplied, so they are marked as pending. Before publishing, confirm you own or have permission to use all photos.
 
 To update the site with ChatGPT, upload the ZIP and supply the exact project details and YouTube links.
